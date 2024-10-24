@@ -15,5 +15,5 @@
 ![image](https://github.com/user-attachments/assets/be1743d8-1051-4329-bb29-6e438741e8ce)
 ---
 ## Copyright Notice
-### 해당 프로젝트에서 사용된 모든 아트 에셋들(스프라이트, SFX, BGM 등)은 팀 내에서 자체적으로 제작하였으며, 해당 에셋들의 저작권은 에셋 제작자에게 귀속됩니다.
-### All art assets used in this project (sprites, SFX, BGM, etc.) were created in-house by the team and are copyrighted by the asset creators. 
+### 해당 프로젝트에서 사용된 모든 아트 에셋들(스프라이트, SFX, BGM 등)은 팀 내에서 자체적으로 제작하였거나 타 동아리와의 협업을 통해 제작되었으며, 해당 에셋들의 저작권은 에셋 제작자에게 귀속됩니다.
+### All art assets used in the project (sprites, SFX, BGM, etc.) were either created in-house by the team or in collaboration with other club, and are copyrighted by the asset creators.
